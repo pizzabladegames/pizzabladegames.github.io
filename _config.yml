@@ -21,7 +21,7 @@
 title: Pizza Blade Games
 # email: your-email@example.com
 description: >- # this means to ignore newlines
-  Hot Slices! 🍕🍕🍕
+  🍕🍕🍕 Hot Slices! 🍕🍕🍕
 domain: pizzabladegames.github.io
 baseurl: "" # the subpath of your site, e.g. /blog
 url: https://pizzabladegames.github.io # the base hostname & protocol for your site, e.g. http://example.com
